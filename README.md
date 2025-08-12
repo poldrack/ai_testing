@@ -23,4 +23,4 @@ Using Claude Sonnet 4 within VSCode Chat in Agent Mode.
 
 - add multiple_regression.py and claude_chat_transcript1.md to context
 
-> Generate tests for the class defined in multiple_regression.py.  Use the pytest testing framework.  generate tests for all methods.  also generate tests to compare the results to the scikit-learn LinearRegression method.
+> Generate tests for the class defined in multiple_regression.py.  Use the pytest testing framework.  generate tests for all methods.  also generate tests to compare the results to the scikit-learn LinearRegression method.  Do not change the tests simply to make them run, unless there is a clear problem with the test itself.
