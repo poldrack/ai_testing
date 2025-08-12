@@ -13,6 +13,7 @@ This is a simple demo of using AI-assisted coding to generate code for a Python 
 Using Claude Sonnet 4 within VSCode Chat in Agent Mode.
 
 - Make sure that README.md is not in context - otherwise it will receive the testing instructions.
+- create and check out a new dev branch: `git checkout -b dev/claude`
 
 > Generate a Python module to perform multiple regression.  Do not use a pre-existing package; implement the code from scratch using linear algebra.  Use a scikit-learn style interface, with .fit(), .fit_transform(), and .transform(), and .predict() methods.  Write clean code with concise numpy-style docstrings.  Check whether the design (X) matrix includes an intercept, and automatically include one if it does not, unless the fit_intercept argument is set to false. Check whether the design matrix is full rank, and raise an exception if it is not.  Use uv for package management and ruff for linting. Outline your plan first before generating any code. Do not generate any tests yet.
 
