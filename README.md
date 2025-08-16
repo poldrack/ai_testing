@@ -4,9 +4,13 @@ This is a simple demo of using AI-assisted coding to generate code for a Python 
 
 #### Setup
 
-1. Clone this repository: `git clone https://github.com/poldrack/ai_testing.git`
-2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
+1. Install the necessary software:
+  - [uv](https://docs.astral.sh/uv/getting-started/installation/)
+  - [VSCode](https://code.visualstudio.com/download)
+  - [Set up Copilot within VSCode](https://code.visualstudio.com/docs/copilot/setup)
+2. Clone this repository: `git clone https://github.com/poldrack/ai_testing.git`
 3. run `uv sync` with repo directory
+
 
 #### Initial prompt
 
